@@ -1,0 +1,22 @@
+.container {
+    max-width: 400px;
+    width: 100%;
+    background-color: lightyellow;
+    border: 3px solid brown;
+    padding: 30px;
+}
+
+img {
+    width: 340px;
+    border: inset 5px orange;
+}
+
+p {
+    background-color: lightblue;
+    width: 320px;
+    max-height: 200px;
+    padding: 10px;
+    border: 5px double orange;
+    overflow-y: scroll;
+    font-size: 1em;
+}
